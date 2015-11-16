@@ -128,8 +128,8 @@ Jobs:
         value: true
         # Permission granted when reaching level 10
         level: 10
-  Miner:
-    fullname: Miner
+  Bank Dirc.:
+    fullname: Bank Dirc.
     shortname: M
     description: Earns money mining minerals and ores.
     ChatColour: DARK_GRAY
@@ -181,8 +181,8 @@ Jobs:
       Player:
         income: 7.5
         experience: 7.5
-  Builder:
-    fullname: Builder
+  Bouwbedr.:
+    fullname: Bouwbedr.
     shortname: B
     description: Earns money for building structures.
     ChatColour: WHITE
@@ -251,8 +251,8 @@ Jobs:
       Player:
         income: 7.5
         experience: 7.5
-  Digger:
-    fullname: Digger
+  Burger:
+    fullname: Burger
     shortname: D
     description: Earns money for terraforming the world.
     ChatColour: GOLD
